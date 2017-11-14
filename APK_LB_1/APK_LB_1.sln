@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "APK_LB_1", "APK_LB_1\APK_LB_1.vcxproj", "{F53FDE2E-308A-478D-BA2C-99094FFD8C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53FDE2E-308A-478D-BA2C-99094FFD8C44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F53FDE2E-308A-478D-BA2C-99094FFD8C44}.Debug|Win32.Build.0 = Debug|Win32
+		{F53FDE2E-308A-478D-BA2C-99094FFD8C44}.Release|Win32.ActiveCfg = Release|Win32
+		{F53FDE2E-308A-478D-BA2C-99094FFD8C44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
